@@ -1,0 +1,3 @@
+rootProject.name = 'BestMovies2017'
+
+include ':app'
